@@ -1,0 +1,1 @@
+Coloque o arquivo dentro da pasta "Plug-ins" no diretório do Adobe Photoshop.
