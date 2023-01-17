@@ -1,3 +1,5 @@
 add mod.ini
 add disk/bb/Languages/English/ActionCommon.ar.00
 add disk/bb/Languages/English/ActionCommon.arl
+add disk/bb/Languages/English/SonicActionCommonHud.ar.00
+add disk/bb/Languages/English/SonicActionCommonHud.arl
