@@ -1,3 +1,5 @@
+## Generations: Brazilian Localization - Version Preview 3f7b9a9
+--------------------------------------------------------------------------------------------------
 ## Generations: Brazilian Localization - Version Preview f551bd2
 --------------------------------------------------------------------------------------------------
 ## Generations: Brazilian Localization - Version Preview b89e069
