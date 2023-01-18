@@ -1,6 +1,10 @@
 ## Sonic Generations: Brazilian Localization / Localização Brasileira
 ![image](https://user-images.githubusercontent.com/88670125/212895731-b3f96b6e-b34a-4dda-98f6-be880b307e72.png)
 ![image2](https://user-images.githubusercontent.com/88670125/212895919-3ecb0e0f-c999-425c-9a04-f99ba8991231.png)
+![image2](https://user-images.githubusercontent.com/88670125/213271275-d26194fb-a04b-48e6-be63-f29141d47112.png)
+![image3](https://user-images.githubusercontent.com/88670125/213271281-c2fadc73-6ea0-42af-833d-6693c9819056.png)
+![image44](https://user-images.githubusercontent.com/88670125/213271283-8b901af0-28f5-4558-ac89-d4ffdc99c87e.png)
+![Sem título](https://user-images.githubusercontent.com/88670125/213271289-89ce1198-83fa-4e83-8c4e-63a28cc8c039.png)
 ![Screenshot_1](https://user-images.githubusercontent.com/88670125/212764116-4891822e-3bb9-4c5c-adab-80191c17431d.png)
 ![Screenshot_2](https://user-images.githubusercontent.com/88670125/212764128-d1910a92-4635-48e4-85e6-478c4811d9b0.png)
 ![Screenshot_3](https://user-images.githubusercontent.com/88670125/212764133-8c18f907-414f-41e2-927e-c3a19d1f533d.png)
