@@ -1,20 +1,22 @@
-## Generations: Brazilian Localization - Version Preview b3e371c
+## Generations: Brazilian Localization - Version Dev ad32940
 --------------------------------------------------------------------------------------------------
-## Generations: Brazilian Localization - Version Preview 4d26def
+## Generations: Brazilian Localization - Version Dev b3e371c
 --------------------------------------------------------------------------------------------------
-## Generations: Brazilian Localization - Version Preview 028800f
+## Generations: Brazilian Localization - Version Dev 4d26def
 --------------------------------------------------------------------------------------------------
-## Generations: Brazilian Localization - Version Preview 3f7b9a9
+## Generations: Brazilian Localization - Version Dev 028800f
 --------------------------------------------------------------------------------------------------
-## Generations: Brazilian Localization - Version Preview f551bd2
+## Generations: Brazilian Localization - Version Dev 3f7b9a9
 --------------------------------------------------------------------------------------------------
-## Generations: Brazilian Localization - Version Preview b89e069
+## Generations: Brazilian Localization - Version Dev f551bd2
 --------------------------------------------------------------------------------------------------
-## Generations: Brazilian Localization - Version Preview b38670b
+## Generations: Brazilian Localization - Version Dev b89e069
 --------------------------------------------------------------------------------------------------
-## Generations: Brazilian Localization - Version Preview bbeb423
+## Generations: Brazilian Localization - Version Dev b38670b
 --------------------------------------------------------------------------------------------------
-## Generations: Brazilian Localization - Version Preview 99604f7
+## Generations: Brazilian Localization - Version Dev bbeb423
 --------------------------------------------------------------------------------------------------
-## Generations: Brazilian Localization - Version Preview b0830fb 
+## Generations: Brazilian Localization - Version Dev 99604f7
+--------------------------------------------------------------------------------------------------
+## Generations: Brazilian Localization - Version Dev b0830fb 
 --------------------------------------------------------------------------------------------------
