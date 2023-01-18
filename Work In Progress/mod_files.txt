@@ -6,6 +6,8 @@ add disk/bb/Languages/English/ActionCommon.ar.00
 add disk/bb/Languages/English/ActionCommon.arl
 add disk/bb/Languages/English/SonicActionCommonHud.ar.00
 add disk/bb/Languages/English/SonicActionCommonHud.arl
+add disk/bb/Languages/English/SystemCommon.ar.00
+add disk/bb/Languages/English/SystemCommon.arl
 add disk/bb2/Languages/English/Title.ar.00
 add disk/bb2/Languages/English/Title.arl
 add SegaLogo.ar.00
