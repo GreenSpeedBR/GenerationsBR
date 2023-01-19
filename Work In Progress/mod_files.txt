@@ -20,7 +20,7 @@ add disk/bb2/Loading.arl
 add disk/bb2/pam_cmn.ar.00
 add disk/bb2/pam_cmn.arl
 add disk/bb2/pam000.ar.00
-add disk/bb2/pam000/arl
+add disk/bb2/pam000.arl
 add disk/bb2/PausePam.ar.00
 add disk/bb2/PausePam.arl
 add disk/bb2/ResidentLoading.ar.00
