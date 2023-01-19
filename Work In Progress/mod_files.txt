@@ -11,8 +11,6 @@ add disk/bb/Languages/English/SystemCommon.ar.00
 add disk/bb/Languages/English/SystemCommon.arl
 add disk/bb/SonicActionCommonHud.ar.00
 add disk/bb/SonicActionCommonHud.arl
-add disk/bb2/bsd.ar.00
-add disk/bb2/bsd.arl
 add disk/bb2/ConverseCommon.ar.00
 add disk/bb2/ConverseCommon.arl
 add disk/bb2/DecorationText.ar.00
