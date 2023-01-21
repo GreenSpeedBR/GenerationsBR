@@ -3,8 +3,6 @@ add movie/sega_logo_us.sfd
 add movie/up_sega_logo.sfd
 add disk/bb/Languages/English/ActionCommon.ar.00
 add disk/bb/Languages/English/ActionCommon.arl
-add disk/bb/Languages/English/blb.ar.00
-add disk/bb/Languages/English/blb.arl
 add disk/bb/Languages/English/SonicActionCommonHud.ar.00
 add disk/bb/Languages/English/SonicActionCommonHud.arl
 add disk/bb/Languages/English/SystemCommon.ar.00
