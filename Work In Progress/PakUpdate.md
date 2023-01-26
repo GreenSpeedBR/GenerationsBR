@@ -1,3 +1,5 @@
+## Generations: Brazilian Localization - Version Dev 66f062a
+--------------------------------------------------------------------------------------------------
 ## Generations: Brazilian Localization - Version Dev 7d10151
 --------------------------------------------------------------------------------------------------
 ## Generations: Brazilian Localization - Version Dev 1961acc
