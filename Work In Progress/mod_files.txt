@@ -13,7 +13,7 @@ delete disk/bb2/ConverseCommon.ar.00
 delete disk/bb2/ConverseCommon.arl
 delete disk/bb2/DecorationText.ar.00
 delete disk/bb2/DecorationText.arl
-delete isk/bb2/Loading.ar.00
+delete disk/bb2/Loading.ar.00
 delete disk/bb2/Loading.arl
 delete disk/bb2/pam_cmn.ar.00
 delete disk/bb2/pam_cmn.arl
